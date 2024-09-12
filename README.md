@@ -8,4 +8,4 @@ API: https://test.ai-softdev.com/docs#/
 
 
 
-!()[]
+!()[cowboy.gif]
