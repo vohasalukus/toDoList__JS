@@ -5,7 +5,7 @@ API: https://test.ai-softdev.com/docs#/
 
 Использовано: axios, -webkit-scrollbar
 
-
+*В будущем переделать
 
 
 ![](cowboy.gif)
